@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface Auto", "Interface Auto\Interface Auto.csproj", "{AE51A199-66F2-4809-8DA2-49BA74CA1D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biblioAuto", "biblioAuto\biblioAuto.csproj", "{898BE88B-7FB0-4D88-A753-0B16F3770574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE51A199-66F2-4809-8DA2-49BA74CA1D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE51A199-66F2-4809-8DA2-49BA74CA1D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE51A199-66F2-4809-8DA2-49BA74CA1D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE51A199-66F2-4809-8DA2-49BA74CA1D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898BE88B-7FB0-4D88-A753-0B16F3770574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898BE88B-7FB0-4D88-A753-0B16F3770574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898BE88B-7FB0-4D88-A753-0B16F3770574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898BE88B-7FB0-4D88-A753-0B16F3770574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {649D9FEA-03B6-4077-8DD6-B52FB92E9941}
+	EndGlobalSection
+EndGlobal
